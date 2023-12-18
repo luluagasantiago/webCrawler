@@ -7,4 +7,10 @@
 3. Add the current link to "visited pages".  Repeat from step 1 with url from que queue.
 
 4. Continue until there are no more links in "not yet visited" queue.
-5. 
+
+
+# TO-DO
+
+- [] modularize the code with functions
+- [] reasure that you're not evaluating duplicates
+- [] try out the same functionality with the async library
