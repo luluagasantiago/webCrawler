@@ -13,4 +13,4 @@
 
 - [] modularize the code with functions
 - [] reasure that you're not evaluating duplicates
-- [] try out the same functionality with the async library
+- [] try out the same functionality with the async library in order to make async requests 
